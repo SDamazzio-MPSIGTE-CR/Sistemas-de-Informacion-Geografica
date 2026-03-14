@@ -9,9 +9,9 @@ El **objetivo principal** de esta iniciativa es **dar a conocer**, en un lengua 
 
 Los *Sistemas de Información Geográfica*, conocidos con el acrónimo **SIG** o _**GIS**_ (al hacer referencia a *Geograpich Information Systems*, en inglés), pueden definirse de varias maneras. Algunos autores han publicado definiciones simples, otros más elaboradas, algunos generalistas y otros específicos, sin embargo, la mayor parte de estas definiciones siguen una estructura cómun formada por **tres partes**: 
 
--Componentes.
--Capacidades.
--Referencia al uso de la ubicación / referencia.
+- Componentes.
+- Capacidades.
+- Referencia al uso de la ubicación / referencia.
  \
 Por tanto, podríamos **definir** a un _**Sistema de Información Geográfica**_ como:
 
@@ -29,10 +29,10 @@ Se dice que el primer profesional relacionado con los **SIG** que utilizó dicho
 
 Con los **SIG** es posible realizar una gran cantidad operaciones relacionadas principalmente con la ubicación, tales como:
 
-1.Generar mapas interactivos
-2.Ayudar a planificar un trabajo de campo 
-3.Crear, mantener y publicitar el Catastro
-4.Muchos otros más.
+1. Generar mapas interactivos
+2. Ayudar a planificar un trabajo de campo 
+3. Crear, mantener y publicitar el Catastro
+4. Muchos otros más.
 
 _Con un **SIG** es posible ahorrar recursos de tiempo y dinero, realizar procesos de forma digital, mejorar los tiempos de viaje, reducir labores repetitivas, reopilar datos en campo, analizar situaciones anómalas para informar a los encargadaos y principalmente generar **Entregables** al cliente de mayor calidad e información._
 
@@ -78,8 +78,8 @@ Para la representación de elementos, los SIG utilizan una entidad acompañada d
 
 Existen varias clasificación posible para los datos que se utilizan en un SIG, sin embargo de las más importantes es la distinción por el tipo de geometría a utilizar. Según esto existen:
 
--Datos tipo Vector.
--Datos tipo Ráster.
+- Datos tipo Vector.
+- Datos tipo Ráster.
 
 ### Datos Vectoriales
 

@@ -93,3 +93,7 @@ R/Geometría que utiliza celdas de igual tamaño en líneas y columnas (cuadríc
 ![De Ráster a Vector](https://desktop.arcgis.com/es/arcmap/latest/manage-data/geodatabases/GUID-CC2D28F9-B2CF-47AF-80BE-3CA13E04E596-web.gif)
 
 **Figura 2. De Ráster a Vector**. Fuente: *Esri.*
+
+Más información: 
+(https://www.esri.com/en-us/what-is-gis/overview)
+

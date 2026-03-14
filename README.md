@@ -17,7 +17,7 @@ Por tanto, podríamos **definir** a un _**Sistema de Información Geográfica**_
 
 >"Un SIG es un sistema formado por una parte física computacional (Hardware), un programa informático (Software), un conjunto de  información (Datos) y una serie de acciones conjuntas (Flujos de trabajo) que habilitan ciertas capacidades como crear, recoger, guardar de forma organizada, editar, visualizar, comunicar y analizar datos, tomando en cuenta su ubicación en un sistema de referencia común (georreferenciados), para tomar mejores decisiones y/o publicitar resultados en formas de mapas y/o aplicaciones." — Sebastián Damazzio Fernández.
 
-![Modelo de Información SIG](sig.png)
+![Sig](SIG.png)
 
 **Figura 1. Software SIG ArcGIS Pro**. Fuente: *Elaboración Propia.*
 
@@ -26,8 +26,6 @@ Por tanto, podríamos **definir** a un _**Sistema de Información Geográfica**_
 Históricamente los **SIG** han permitido avanzar en conjunto a los áreas y disciplinas como la **Cartografía** y la **Informática**. Sin embargo, fué en los años 60's, dónde se dan los grandes avances tecnológicos y los Sistemas de Información Geográfica da seguimiento a esos temas.
 
 Se dice que el primer profesional relacionado con los **SIG** que utilizó dicho término fué el señor Roger Tomlinson, un destacado geógrafo inglés que utilizó el término _*Sistemas de Información Geográfica*_ en los años 60's, al dirigir un proyecto de invetario de tierras para Canadá, puesto que le valió el sobrenombre de **"El padre del SIG"**.
-
-![Roger Tomlinson] (https://www.esri.com/about/newsroom/app/uploads/2018/11/p1p1-lg.j)
 
 ## ¿Para qué sirve un SIG?
 

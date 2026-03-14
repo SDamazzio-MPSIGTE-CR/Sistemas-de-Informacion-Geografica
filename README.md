@@ -91,11 +91,11 @@ Existen varias clasificación posible para los datos que se utilizan en un SIG, 
 
 ### Datos Vectoriales
 
-Geometría que utiliza puntos, líneas y/o polígonos para los objetos del mundo real que representa y que tienen muy claras y definidas sus formas y/o fronteras. Planos, Árboles, Negocios, Líneas del Ferrocarril, etc.
+Geometría que utiliza puntos, líneas y/o polígonos para los objetos del mundo real que representa y que tienen muy claras y definidas sus formas y/o fronteras. P.e. Planos, Árboles, Negocios, Líneas del Ferrocarril, etc.
 
 ### Datos Ráster
 
-R/Geometría que utiliza celdas de igual tamaño en líneas y columnas (cuadrícula) para representar objetos del mundo real que representa y que no tienen tan claras y definidas sus formas y/o fronteras. P.e. Incendios, Modelos de Elevación, Ortofotos, etc.
+Geometría que utiliza celdas de igual tamaño en líneas y columnas (cuadrícula) para representar objetos del mundo real que representa y que no tienen tan claras y definidas sus formas y/o fronteras. P.e. Incendios, Modelos de Elevación, Ortofotos, etc.
 
 
 ![De Ráster a Vector](https://desktop.arcgis.com/es/arcmap/latest/manage-data/geodatabases/GUID-CC2D28F9-B2CF-47AF-80BE-3CA13E04E596-web.gif)

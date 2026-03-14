@@ -17,6 +17,10 @@ Por tanto, podríamos **definir** a un _**Sistema de Información Geográfica**_
 
 >"Un SIG es un sistema formado por una parte física computacional (Hardware), un programa informático (Software), un conjunto de  información (Datos) y una serie de acciones conjuntas (Flujos de trabajo) que habilitan ciertas capacidades como crear, recoger, guardar de forma organizada, editar, visualizar, comunicar y analizar datos, tomando en cuenta su ubicación en un sistema de referencia común (georreferenciados), para tomar mejores decisiones y/o publicitar resultados en formas de mapas y/o aplicaciones." — Sebastián Damazzio Fernández.
 
+![Modelo de Información SIG](sig.png)
+
+**Figura 1. Software SIG ArcGIS Pro**. Fuente: *Elaboración Propia.*
+
 ## Inicios
 
 Históricamente los **SIG** han permitido avanzar en conjunto a los áreas y disciplinas como la **Cartografía** y la **Informática**. Sin embargo, fué en los años 60's, dónde se dan los grandes avances tecnológicos y los Sistemas de Información Geográfica da seguimiento a esos temas.
@@ -70,7 +74,7 @@ Los Sistemas de Información Geográfica Utilizan un modelado de la realidad par
 
 ![Modelo de Información SIG](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AI9dxBzQW4MBIYMNq7j2TO_ppvqRezEViw&s)
 
-**Figura 1. Modelo de Información SIG**. Fuente: *Esri.*
+**Figura 2. Modelo de Información SIG**. Fuente: *Esri.*
 
 Para la representación de elementos, los SIG utilizan una entidad acompañada de uno o más atributos, que corresponde al componente literal de la representación espacial (georreferenciada)
 
@@ -92,7 +96,7 @@ R/Geometría que utiliza celdas de igual tamaño en líneas y columnas (cuadríc
 
 ![De Ráster a Vector](https://desktop.arcgis.com/es/arcmap/latest/manage-data/geodatabases/GUID-CC2D28F9-B2CF-47AF-80BE-3CA13E04E596-web.gif)
 
-**Figura 2. De Ráster a Vector**. Fuente: *Esri.*
+**Figura 3. De Ráster a Vector**. Fuente: *Esri.*
 
 Más información: 
 (https://www.esri.com/en-us/what-is-gis/overview)

@@ -18,7 +18,7 @@ Por tanto, podríamos **definir** a un _**Sistema de Información Geográfica**_
 
 >"Un SIG es un sistema formado por una parte física computacional (Hardware), un programa informático (Software), un conjunto de  información (Datos) y una serie de acciones conjuntas (Flujos de trabajo) que habilitan ciertas capacidades como crear, recoger, guardar de forma organizada, editar, visualizar, comunicar y analizar datos, tomando en cuenta su ubicación en un sistema de referencia común (georreferenciados), para tomar mejores decisiones y/o publicitar resultados en formas de mapas y/o aplicaciones." — Sebastián Damazzio Fernández.
 
-![Sig](SIG.png)
+![Sig](Pro.jpg)
 
 **Figura 1. Software SIG ArcGIS Pro**. Fuente: *Elaboración Propia.*
 

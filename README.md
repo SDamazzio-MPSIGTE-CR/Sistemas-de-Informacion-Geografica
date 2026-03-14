@@ -12,6 +12,7 @@ Los *Sistemas de Información Geográfica*, conocidos con el acrónimo **SIG** o
 - Componentes.
 - Capacidades.
 - Referencia al uso de la ubicación / referencia.
+  
  \
 Por tanto, podríamos **definir** a un _**Sistema de Información Geográfica**_ como:
 
@@ -48,21 +49,26 @@ Los **sistemas de referencia** son fundamentales para la correctar operación de
 
 Los **SIG** utilizan ubicaciones absolutas en lugar de relativas, eso quiere decir que la forma de expresar o dejar constancia de la ubicación de un lugar, es irrepetive en el territorio, y las ubicaciones normalmente se representan en un par de coordenadas que están escritas en un idioma informático de conocimiento común.
 
+
 ### Sistemas de Coordenadas
+
 
 #### Sistemas de Coordenadas Geográfica (3D)
 
 Entendemos por **Sistemas de Coordenadas Geográficas** una serie de elementos matemáticos que definen y hacen posible la representación de la tierra o una parte de ella en un software de computadora en forma de mapas.
 
+
 #### Sistemas de Coordenadas Proyectadas  (2D)
 
 Entendemos por **Sistemas de Coordenadas Proyectadas** una serie de elementos matemáticos, basados en un **Sistema de Coordenadas Geográficas 3D** que definen y hacen posible la representación de la tierra o una parte de ella en un software de computadora en forma de **mapas 2D.**
+
 
 ## Sistemas Oficiales en Costa Rica
 
 En Costa Rica el Sistemas de Coordenadas XY oficial es el Sistema **CR-SIRGAS CRTM05**.
 
 En el pasado otros sitemas utilizados (y de los cuáles aún hay mucha información) son **CR-05CRTM05, Lambert Norte, Lambert Sur y Coordenadas UTM**.
+
 
 ## Datos en SIG
 
